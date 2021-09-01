@@ -1,0 +1,75 @@
+body {
+  background-color: #6782aa;
+}
+
+.mainLayout {
+  width: 400px;
+  height: 300px;
+  background-color: aliceblue;
+  box-shadow: aquamarine;
+  border-radius: 10%;
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  width: 100%;
+  margin-top: 35px;
+  margin-left: -15px;
+  background-color: #876ba9;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+}
+
+.inputDesign {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 50px;
+  float: left;
+}
+
+.iconDesign {
+  position: absolute;
+  margin-left: 243px;
+  margin-top: -35px;
+}
+
+.cardDesign {
+  width: 60%;
+}
+.card {
+  background-color: #d2dae2;
+}
+/* 
+.first {
+  width: 33.3%;
+  padding: 10%;
+  background-color: #ffbf72;
+}
+
+.second {
+  width: 33.3%;
+  padding: 10%;
+  background-color: #776cde;
+}
+
+.third {
+  width: 33.4%;
+  padding: 10%;
+  background-color: #fea373;
+}
+/* ************For mobile phones *******************/
+/* 
+@media only screen and (max-width: 503px) {
+  .first {
+    width: 100%;
+  }
+  .second {
+    width: 100%;
+  }
+
+  .third {
+    width: 100%;
+  }
+}  */
